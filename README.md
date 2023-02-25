@@ -1,48 +1,55 @@
 ## Hello GitHub Fans 👋
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img align="right" alt="GIF" style="width:50%;height:300px" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-### I'm Siwei Zhou
+### I'm SiYuan Liu
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently working in Hangzhou, China.
-- 💬 Ask me about Java, TypeScript and my projects on [2434387555@qq.com](mailto:2434387555@qq.com)
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
-- ⚡ Fun fact: Data Analysis📊
+- 🏫 中国海洋大学通信工程毕业，B站重度用户
+- 💻 全栈小能手，需求翻译机，Goland发烧友，开源搬运工
+- 💬 扣扣邮箱，欢迎一起讨论学习 [945212191@qq.com](mailto:945212191@qq.com)
+- 🍋 柠檬茶是世界上最好喝的饮料，没有之一！！！
+- 👏 魔方技术网，致力于分享实用的技术干货，欢迎来玩：[http://matrixtech.cloud](mailto:http://matrixtech.cloud)
 
-### 🛠 技术栈 | Tech Stack
+### 💻 技术栈 | Tech Stack
 
-- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+- &#160; ![Golang](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
+![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=Lua)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-![聚合支付](https://img.shields.io/badge/-聚合支付-333333?style=flat&logo=payoneer&logoColor=FF4800)
-- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+- &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
-- 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
-- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Angular.js](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)
+![Vue.js](https://img.shields.io/badge/-Vue-333333?style=flat&logo=Vue.js)
+![ElementUI](https://img.shields.io/badge/-ElementUI-333333?style=flat&logo=elementplus)
+![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=Webpack)
+![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=Vite)
+![Pinia](https://img.shields.io/badge/-Pinia-333333?style=flat&logo=Pinia)
+![Axios](https://img.shields.io/badge/-Axios-333333?style=flat&logo=Axios)
+- &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis)
+![Etcd](https://img.shields.io/badge/-Etcd-333333?style=flat&logo=Etcd)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-333333?style=flat&logo=Elasticsearch)
+![Rocketmq](https://img.shields.io/badge/-Rocketmq-333333?style=flat&logo=rocketmq)
+![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=Kafka)
+- &#160; ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
+![Containerd](https://img.shields.io/badge/-Containerd-333333?style=flat&logo=Containerd)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
+![Istio](https://img.shields.io/badge/-Istio-333333?style=flat&logo=Istio)
+![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=Prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=Grafana)
+- &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### 开源项目
-- [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
-- [一个简洁优雅的hexo主题](https://github.com/JoeyBling/hexo-theme-yilia-plus)
-- [hexo-theme-yilia-plus配置Demo](https://github.com/JoeyBling/yilia-plus-demo)
-- [自动为hexo中的图片映射绝对路径](https://github.com/JoeyBling/hexo-filter-image)
-- [✏️✏️Java软件工程师简历](https://github.com/JoeyBling/cv)
-- [一款简洁优雅的VuePress主题](https://github.com/JoeyBling/vuepress-theme-yilia-plus)
-- [VuePress集成Live2D看板娘](https://github.com/JoeyBling/vuepress-plugin-helper-live2d)
-- [VuePress集成Gitalk](https://github.com/JoeyBling/vuepress-plugin-mygitalk)
-- [不蒜子访问量统计功能](https://github.com/JoeyBling/busuanzi.pure.js)
-- [在`npm install`后提示用户消息或捐赠](https://github.com/JoeyBling/openteam-postinstall)
+- [基于Golang的轻量级云原生微服务框架：Kratos](https://github.com/go-kratos)
+- [多人在线技术博客分享平台：魔方技术](https://github.com/the-zion/matrix-core)
 
 ### 关于我
-- [技术笔记](https://zhousiwei.gitee.io/ibooks/)
-- [CSDN](https://zhousiwei.blog.csdn.net/)
-- [微博](http://weibo.com/jayinfo)
+- [个人主页](https://matrixtech.cloud/main/user/timeline?id=cf15oiupn6icj0ufo2og&menu=timeline)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
-⭐️ From [JoeyBling](https://github.com/JoeyBling)
+⭐️ From [SiYuan Liu](https://github.com/Liusiyuan-git)
