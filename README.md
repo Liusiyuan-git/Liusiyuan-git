@@ -1,5 +1,4 @@
 ## Hello GitHub Fans 👋
----
 <img align="right" alt="GIF" style="width:50%;height:300px" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ### I'm SiYuan Liu
@@ -9,6 +8,9 @@
 - 💬 扣扣邮箱，欢迎一起讨论学习 [945212191@qq.com](mailto:945212191@qq.com)
 - 🍋 柠檬茶是世界上最好喝的饮料，没有之一！！！
 - 👏 魔方技术网，致力于分享实用的技术干货，欢迎来玩：[http://matrixtech.cloud](mailto:http://matrixtech.cloud)
+
+<img width="55%" align="right" alt="Sachin's github stats" src="https://github-readme-stats.vercel.app/api?username=liusiyuangit
+&show_icons=true&hide_border=true"/>
 
 ### 💻 技术栈 | Tech Stack
 
