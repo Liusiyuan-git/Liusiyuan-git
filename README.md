@@ -9,8 +9,7 @@
 - 🍋 柠檬茶是世界上最好喝的饮料，没有之一！！！
 - 👏 魔方技术网，致力于分享实用的技术干货，欢迎来玩：[http://matrixtech.cloud](mailto:http://matrixtech.cloud)
 
-<img width="55%" align="right" alt="Sachin's github stats" src="https://github-readme-stats.vercel.app/api?username=liusiyuangit
-&show_icons=true&hide_border=true"/>
+<img style="width:50%;height:300px" align="right" alt="SiYuan's github stats" src="https://github-readme-stats.vercel.app/api?username=Liusiyuan-git&show_icons=true&hide_border=true&count_private=true"/>
 
 ### 💻 技术栈 | Tech Stack
 
@@ -44,6 +43,8 @@
 - &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
+<img style="width: 50%;height: 200px;max-width: 100%;padding-right: 80px;" align="right" alt="SiYuan's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liusiyuan-git&hide=css,scss,html&layout=compact&hide_border=true"/>
 
 ### 开源项目
 - [基于Golang的轻量级云原生微服务框架：Kratos](https://github.com/go-kratos)
