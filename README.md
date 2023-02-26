@@ -7,7 +7,7 @@
 - 💻 全栈小能手，需求翻译机，Goland发烧友，开源搬运工
 - 💬 扣扣邮箱，欢迎一起讨论学习 [945212191@qq.com](mailto:945212191@qq.com)
 - 🍋 柠檬茶是世界上最好喝的饮料，没有之一！！！
-- 👏 魔方技术网，致力于分享实用的技术干货，欢迎来玩：[http://matrixtech.cloud](mailto:http://matrixtech.cloud)
+- 👏 魔方技术网，致力于分享实用的技术干货，欢迎来玩：[https://matrixtech.cloud](https://matrixtech.cloud)
 
 <img style="width:50%;height:300px" align="right" alt="SiYuan's github stats" src="https://github-readme-stats.vercel.app/api?username=Liusiyuan-git&show_icons=true&hide_border=true&count_private=true"/>
 
