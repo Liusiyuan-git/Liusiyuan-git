@@ -49,6 +49,7 @@
 ### 开源项目
 - [基于Golang的轻量级云原生微服务框架：Kratos](https://github.com/go-kratos)
 - [多人在线技术博客分享平台：魔方技术](https://github.com/the-zion/matrix-core)
+- [Golang入门级教学项目：用户开放中心](https://github.com/open-user-center)
 
 ### 关于我
 - [个人主页](https://matrixtech.cloud/main/user/timeline?id=cf15oiupn6icj0ufo2og&menu=timeline)
